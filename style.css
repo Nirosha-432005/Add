@@ -10,7 +10,7 @@ h1{
     padding: 20px;
 }
 nav{
-    background-color: lime;
+    background-color: lime; 
     display: grid;
     place-items: center;
 }
