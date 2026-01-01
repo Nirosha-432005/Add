@@ -42,7 +42,7 @@ nav ul a:hover{
     height: 300px;
     object-fit: cover;
     cursor: pointer;
-    transition: 0.2s ease;
+    transition: 0.20s ease;
 }
 .item img:hover{
     transform: scale(1.04);
